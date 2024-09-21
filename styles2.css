@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.marks{
+    align-items: center;
+    justify-content: center;
+    display: block;
+    background-color: rgb(255, 255, 255);
+}
+.marks table{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.marks th{
+    padding: 35px;
+    width: 90%;
+    font-size: 2rem;
+    
+
+}
+.marks tr{
+    padding: 90px;
+    width: 90%;
+    height: 85px;
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+.profile{
+    align-items: center;
+    justify-content: center;
+    display: block;
+    background-color: rgb(234, 236, 241);
+}
+.profile table{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    
+}
+.profile th{
+    padding: 20px;
+    width: 90%;
+    font-size: 1rem;
+
+}
+.profile tr{
+    padding: 20px;
+    width: 90%;
+    height: 85px;
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+}
